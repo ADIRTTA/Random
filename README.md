@@ -9,5 +9,5 @@ pkg install pip
 git clone https://github.com/ADIRTTA/Random.git
 cd Random
 chmod +x *
-python3 random.py
+python3 awm.py
 ```
